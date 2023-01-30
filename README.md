@@ -12,4 +12,4 @@
  
  
  
-https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielYujiYasuda
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielYujiYasuda)]
