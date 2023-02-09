@@ -1,4 +1,5 @@
 ### Hii, I'm Gabriel Yasuda 👋
+<h2> Minas Gerais - Brazil</h2>
 
 - :open_book: I'm a Computer Science student
 - 🔭 I’m currently working at Aliança Energia as intern
