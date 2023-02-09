@@ -1,5 +1,5 @@
 ### Hii, I'm Gabriel Yasuda 👋
-<strong> Minas Gerais - Brazil</strong>
+<strong>🇧🇷 Minas Gerais - Brazil :brazil: 🇯🇵:</strong>
 
 - :open_book: I'm a Computer Science student
 - 🔭 I’m currently working at Aliança Energia as intern
