@@ -1,4 +1,4 @@
-### Hii, I'm Gabriel Yasuda 👋
+### Hii, I'm Gabriel Yuji Yasuda 👋
 <strong>Minas Gerais - Brazil 🇧🇷 🇯🇵</strong>
 
 - :open_book: I'm a Computer Science student
