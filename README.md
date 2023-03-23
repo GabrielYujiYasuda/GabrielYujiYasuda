@@ -3,7 +3,7 @@
 
 - :open_book: I'm a Computer Science student
 - 🔭 I’m currently working at Aliança Energia as intern
-- 🌱 I’m currently learning Java Web Development technologies
+- 🌱 I’m currently learning Mobile Development technologies
 - 📫 How to reach me: www.linkedin.com/in/gabrielyasuda
 - ⚡ Fun fact: Brazilian Jiu Jitsu Blue belt
 
