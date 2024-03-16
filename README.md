@@ -1,7 +1,7 @@
 ### Hey, I'm Gabriel Yuji Yasuda 👋
 <strong>Minas Gerais - Brazil 🇧🇷 🇯🇵</strong>
 
-- :open_book: I'm a WEB Software Developer and a Computer Science student
+- :open_book: I'm a WEB Software Engineer and a Computer Science student
 - 🔭 I’m currently working at DTI Digital as full stack software developer intern
 - :brain: Stack: C#/.NET and React
 - 📫 How to reach me: www.linkedin.com/in/gabrielyasuda
