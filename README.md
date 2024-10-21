@@ -2,7 +2,7 @@
 <strong>Minas Gerais - Brazil 🇧🇷 🇯🇵</strong>
 
 - :open_book: I'm a WEB Software Engineer and a Computer Science student
-- 🔭 I’m currently working at DTI Digital as full stack software developer
+- 🔭 I’m currently working at dti digital as full stack software developer
 - :brain: Stack: C#/.NET and React
 - 📫 How to reach me: www.linkedin.com/in/gabrielyasuda
 - ⚡ Fun fact: Brazilian Jiu Jitsu Blue belt 🥋
